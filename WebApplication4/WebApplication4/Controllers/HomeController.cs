@@ -29,7 +29,7 @@ namespace WebApplication4.Controllers
             string ForData = data.For;
             int ID = data.Id;
 
-
+            //qwer
 
             ChartSetting chartSetting = new ChartSetting(SinseData, ForData, ID);
             List<DataPoint> dataPoint = chartSetting.NoteDataPoints();

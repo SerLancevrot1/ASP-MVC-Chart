@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MAX\\source\\repos\\WebApplication4\\WebApplication4\\WebApplication4.csproj": {}
+    "C:\\Users\\MAX\\Documents\\GitHub\\sfswf\\WebApplication4\\WebApplication4\\WebApplication4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MAX\\source\\repos\\WebApplication4\\WebApplication4\\WebApplication4.csproj": {
+    "C:\\Users\\MAX\\Documents\\GitHub\\sfswf\\WebApplication4\\WebApplication4\\WebApplication4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MAX\\source\\repos\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+        "projectUniqueName": "C:\\Users\\MAX\\Documents\\GitHub\\sfswf\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
         "projectName": "WebApplication4",
-        "projectPath": "C:\\Users\\MAX\\source\\repos\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+        "projectPath": "C:\\Users\\MAX\\Documents\\GitHub\\sfswf\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
         "packagesPath": "C:\\Users\\MAX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MAX\\source\\repos\\WebApplication4\\WebApplication4\\obj\\",
+        "outputPath": "C:\\Users\\MAX\\Documents\\GitHub\\sfswf\\WebApplication4\\WebApplication4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MAX\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
